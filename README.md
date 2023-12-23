@@ -1,2 +1,2 @@
 # microsoft-website
-I maked it microsoft site using frontend
+I maked a microsoft website by using frontend .
